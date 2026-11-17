@@ -1,5 +1,6 @@
 /home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/com/example/application/Main.java
+/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/com/example/db/DB.java
+/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/com/example/db/DbException.java
+/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/com/example/db/DbIntegrityException.java
 /home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/com/example/model/entities/Department.java
-/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/db/DB.java
-/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/db/DbException.java
-/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/db/DbIntegrityException.java
+/home/Coca/Repositórios/demo-dao-jdbc/project/src/main/java/com/example/model/entities/Seller.java
