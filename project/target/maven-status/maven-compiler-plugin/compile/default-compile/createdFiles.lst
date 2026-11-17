@@ -1,4 +1,5 @@
+com/example/model/entities/Department.class
+com/example/application/Main.class
 db/DbIntegrityException.class
 db/DB.class
-com/example/Main.class
 db/DbException.class
